@@ -43,6 +43,10 @@ body {
 .nav-link:hover {
   border-bottom: 2px solid black;
 }
+#chol{
+  text-decoration: none;
+  color: white;
+}
 
 .my-carbon-clock {
   box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 15px 5px;
