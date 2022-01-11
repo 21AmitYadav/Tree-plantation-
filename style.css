@@ -7,7 +7,12 @@
 }
 
 body {
-  background-color: #fbf5e9;
+  background-color: whitesmoke;
+  background-image: url('images/1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  /* background-size: 100% 100%; */
+  background-size: cover;
 }
 .home {
   position: relative;
@@ -61,7 +66,7 @@ body {
 }
 
 .my-white-div {
-  background-color: whitesmoke;
+  /* background-color: whitesmoke; */
   background-image: url(images/wavee.svg);
 
   background-repeat: no-repeat;

@@ -7,7 +7,13 @@
 }
 
 body {
-  background-color: #fbf5e9;
+  /* background-color: #fbf5e9; */
+  background-color: whitesmoke;
+  background-image: url('images/021.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  /* background-size: 100% 100%; */
+  background-size: cover;
 }
 .home {
   position: relative;
@@ -42,6 +48,10 @@ body {
 
 .nav-link:hover {
   border-bottom: 2px solid black;
+}
+#chol{
+  text-decoration: none;
+  color: white;
 }
 
 .my-carbon-clock {
