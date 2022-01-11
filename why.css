@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Montserrat", sans-serif;
+  font-family:'Quicksand', sans-serif;
 }
 
 body {
@@ -52,6 +52,7 @@ body {
 #chol{
   text-decoration: none;
   color: white;
+
 }
 
 .my-carbon-clock {
@@ -66,10 +67,8 @@ body {
   color: #477745;
 }
 
-.my-white-div {
-  background-color: white;
+.my-white-div { 
   background-image: url(images/wavee.svg);
-
   background-repeat: no-repeat;
 }
 
