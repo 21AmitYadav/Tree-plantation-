@@ -7,12 +7,9 @@
 }
 
 body {
-  /* background-color: #fbf5e9; */
-  background-color: whitesmoke;
   background-image: url('images/021.jpg');
   background-repeat: no-repeat;
-  background-attachment: fixed;  
-  /* background-size: 100% 100%; */
+  background-attachment: fixed;
   background-size: cover;
 }
 .home {
@@ -75,7 +72,9 @@ body {
 .my-social {
   text-decoration: none;
 }
-
+#concat{
+  font-size: 18px;
+}
 .my-text {
   max-width: 1000px;
   margin: 0 auto;
@@ -107,6 +106,7 @@ body {
 .card:hover .card-body {
   transform: scale(1.2);
 }
+
 
 .card h1 {
   font-size: 40px;

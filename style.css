@@ -10,7 +10,6 @@ body {
   background-image: url('images/1.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
-  /* background-size: 100% 100%; */
   background-size: cover;
   font-family:'Quicksand', sans-serif;
 }
@@ -71,7 +70,9 @@ body {
 
   background-repeat: no-repeat;
 }
-
+#concat{
+  font-size: 18px;
+}
 .my-social {
   text-decoration: none;
 }
