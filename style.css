@@ -43,6 +43,9 @@ body {
 .nav-link {
   transition: all 0.2s ease;
 }
+.navlogo{
+  flex-direction: row;
+}
 
 .nav-link:hover {
   border-bottom: 2px solid black;
